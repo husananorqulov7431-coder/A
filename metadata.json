@@ -1,0 +1,6 @@
+{
+  "name": "UzTube Sub",
+  "description": "YouTube videolari uchun real vaqtda o'zbekcha jonli subtitr va AI transkript pleyeri",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

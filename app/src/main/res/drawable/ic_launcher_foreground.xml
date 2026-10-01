@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main screen card -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M30,28 h48 c4.4,0 8,3.6 8,8 v36 c0,4.4 -3.6,8 -8,8 h-48 c-4.4,0 -8,-3.6 -8,-8 v-36 c0,-4.4 3.6,-8 8,-8 z" />
+    
+    <!-- Red top bar / YouTube play banner -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M30,28 h48 c4.4,0 8,3.6 8,8 v6 h-64 v-6 c0,-4.4 3.6,-8 8,-8 z" />
+
+    <!-- Play triangle in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,45 l14,8 l-14,8 z" />
+
+    <!-- Subtitle badge bar at bottom -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,66 h52 c2.2,0 4,1.8 4,4 v4 c0,2.2 -1.8,4 -4,4 h-52 c-2.2,0 -4,-1.8 -4,-4 v-4 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- "CC" text indicator lines -->
+    <!-- First 'C' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,70 h5 v2 h-3 v2 h3 v2 h-5 z" />
+    <!-- Second 'C' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,70 h5 v2 h-3 v2 h3 v2 h-5 z" />
+    <!-- Live subtitle soundwave lines -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,72 h12 v2 h-12 z M66,72 h10 v2 h-10 z M52,75 h6 v1.5 h-6 z M60,75 h14 v1.5 h-14 z" />
+
+    <!-- Glowing top-right AI Sparkle -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,24 l2,5 l5,2 l-5,2 l-2,5 l-2,-5 l-5,-2 l5,-2 z" />
+</vector>
